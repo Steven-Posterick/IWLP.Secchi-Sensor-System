@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c75645ac-177f-457e-a776-85a4e91a08c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/Utils/CSVWriter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/Temperature.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/TemperatureModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/TemperatureUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/App.xaml" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Utils/CSVWriter.cs" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/Temperature.cs" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/TemperatureModel.cs" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/TemperatureUnit.cs" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Steven\RiderProjects\IWLP.SecchiSensorSystem\.idea\.idea.IWLP.SecchiSensorSystem\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bPo9rvcEhkFJo3K6bk1qZVx4ET" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
+  </component>
+  <component name="RunManager">
+    <configuration name="IWLP.SecchiSensorSystem" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/bin/Debug/IWLP.SecchiSensorSystem.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/IWLP.SecchiSensorSystem.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c75645ac-177f-457e-a776-85a4e91a08c3" name="Default Changelist" comment="" />
+      <created>1588542940941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588542940941</updated>
+      <workItem from="1588542942091" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1912" y="21" key="#Notifications" timestamp="1588543759906">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state x="1912" y="21" key="#Notifications/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543759906" />
+    <state x="1774" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588543063452">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state x="1774" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543063452" />
+    <state x="2156" y="256" key="Github.ShareDialog" timestamp="1588543804321">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state x="2156" y="256" key="Github.ShareDialog/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543804321" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588542958760">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588542958760" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588542958760">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588542958760" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588542958760">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588542958760" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588542958760">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588542958760" />
+    <state x="1912" y="95" key="Rider.ProjectTemplateDialog.Size" timestamp="1588543303918">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state x="1912" y="95" key="Rider.ProjectTemplateDialog.Size/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543303918" />
+    <state x="1821" y="5" key="SettingsEditor" timestamp="1588543109888">
+      <screen x="1360" y="-157" width="1920" height="1040" />
+    </state>
+    <state x="1821" y="5" key="SettingsEditor/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543109888" />
+  </component>
+</project>

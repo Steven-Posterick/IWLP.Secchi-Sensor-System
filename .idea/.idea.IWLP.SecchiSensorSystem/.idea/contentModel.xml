@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Steven\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Steven\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_IWLP.SecchiSensorSystem.1822994552.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Steven\RiderProjects\IWLP.SecchiSensorSystem" t="IncludeFlat">
+      <e p="IWLP.SecchiSensorSystem" t="IncludeRecursive">
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="Temperature.cs" t="Include" />
+          <e p="TemperatureModel.cs" t="Include" />
+          <e p="TemperatureUnit.cs" t="Include" />
+        </e>
+        <e p="IWLP.SecchiSensorSystem.csproj" t="IncludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.g.cs" t="Include" />
+              <e p="IWLP.SecchiSensorSystem.AssemblyInfo.cs" t="Include" />
+              <e p="MainWindow.g.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Utils" t="Include">
+          <e p="CSVWriter.cs" t="Include" />
+        </e>
+        <e p="Windows" t="Include">
+          <e p="ApplicationWindow.xaml" t="Include" />
+          <e p="ApplicationWindow.xaml.cs" t="Include" />
+        </e>
+      </e>
+      <e p="IWLP.SecchiSensorSystem.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
