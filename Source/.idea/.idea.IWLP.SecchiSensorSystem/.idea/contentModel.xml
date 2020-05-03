@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Steven\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Steven\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_IWLP.SecchiSensorSystem.1822994552.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Steven\RiderProjects\IWLP.SecchiSensorSystem" t="IncludeFlat">
+    <e p="C:\Users\Steven\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_IWLP.SecchiSensorSystem.-1528144027.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Steven\RiderProjects\IWLP.SecchiSensorSystem\Source" t="IncludeFlat">
       <e p="IWLP.SecchiSensorSystem" t="IncludeRecursive">
         <e p="App.xaml" t="Include" />
         <e p="App.xaml.cs" t="Include" />
@@ -18,11 +18,14 @@
         <e p="MainWindow.xaml" t="Include" />
         <e p="MainWindow.xaml.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="App.g.cs" t="Include" />
               <e p="IWLP.SecchiSensorSystem.AssemblyInfo.cs" t="Include" />
               <e p="MainWindow.g.cs" t="Include" />
+              <e p="Windows" t="Include">
+                <e p="ApplicationWindow.g.cs" t="Include" />
+              </e>
             </e>
           </e>
         </e>
