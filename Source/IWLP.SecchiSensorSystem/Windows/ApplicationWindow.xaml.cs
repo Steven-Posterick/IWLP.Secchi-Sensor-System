@@ -34,6 +34,8 @@ namespace IWLP.SecchiSensorSystem.Windows
             ButtonStatus = "Connect";
             Connected = "Disconnected";
 
+            LastTemperature = 0.00;
+
             SetupPlot();
             
             DataContext = this;
@@ -344,21 +346,14 @@ namespace IWLP.SecchiSensorSystem.Windows
         private void AddValue(double temp)
         {
             DateTime now = DateTime.Now;
-            ChartValues.Add(new TemperatureModel(temp, now));
-
+                        
             // Add new chart point
-            var step = (temp - _lastTemperature) / 4;
-
-            Task.Factory.StartNew(() =>
-            {
-                for (var i = 0; i < 4; i++)
-                {
-                    Thread.Sleep(100);
-                    LastTemperature += step;
-                }
-
-                LastTemperature = temp;
-            });
+            var temperatureModel = new TemperatureModel(temp, now);
+            
+            ChartValues.Add(temperatureModel);
+            
+            // Set the status bar temperature. 
+            LastTemperature = temperatureModel.Temperature.GetTemperature(_tempUnit);
 
             // Reset the axis limits
             SetAxisLimits(now);

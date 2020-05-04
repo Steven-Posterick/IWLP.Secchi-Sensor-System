@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75645ac-177f-457e-a776-85a4e91a08c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/IWLP.SecchiSensorSystem/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +33,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/App.xaml" />
-        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" />
         <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Utils/CSVWriter.cs" />
         <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/Temperature.cs" />
         <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/TemperatureModel.cs" />
         <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Data/TemperatureUnit.cs" />
+        <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" />
         <option value="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" />
       </list>
     </option>
@@ -42,6 +48,12 @@
         <option value="C:\Users\Steven\RiderProjects\IWLP.SecchiSensorSystem\.idea\.idea.IWLP.SecchiSensorSystem\.idea" />
       </set>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1bPo9rvcEhkFJo3K6bk1qZVx4ET" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,9 +68,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.jsOptions" />
   </component>
   <component name="RunManager" selected=".NET Project.IWLP.SecchiSensorSystem">
     <configuration name="Publish IWLP.SecchiSensorSystem to folder (1)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
@@ -89,10 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Publish to folder.Publish IWLP.SecchiSensorSystem to folder (2)" />
         <item itemvalue="Publish to folder.Publish IWLP.SecchiSensorSystem to folder (1)" />
         <item itemvalue="Publish to custom server.Publish IWLP.SecchiSensorSystem to custom server" />
-        <item itemvalue="Publish to folder.Publish IWLP.SecchiSensorSystem to folder" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +118,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588542940941</updated>
       <workItem from="1588542942091" duration="818000" />
-      <workItem from="1588544160348" duration="346000" />
+      <workItem from="1588544160348" duration="6123000" />
+      <workItem from="1588559109988" duration="240000" />
     </task>
     <servers />
   </component>
@@ -165,29 +177,33 @@
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
     <state x="2156" y="256" key="Github.ShareDialog/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543804321" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588544601311">
+    <state width="1877" height="436" key="GridCell.Tab.0.bottom" timestamp="1588559487415">
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588544601311" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588544601311">
+    <state width="1317" height="282" key="GridCell.Tab.0.bottom/1360.-157.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1588546154344" />
+    <state width="1877" height="436" key="GridCell.Tab.0.bottom/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588559487415" />
+    <state width="1877" height="436" key="GridCell.Tab.0.center" timestamp="1588559487415">
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588544601311" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588544601310">
+    <state width="1317" height="282" key="GridCell.Tab.0.center/1360.-157.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1588546154344" />
+    <state width="1877" height="436" key="GridCell.Tab.0.center/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588559487415" />
+    <state width="1877" height="436" key="GridCell.Tab.0.left" timestamp="1588559487415">
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588544601310" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588544601311">
+    <state width="1317" height="282" key="GridCell.Tab.0.left/1360.-157.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1588546154344" />
+    <state width="1877" height="436" key="GridCell.Tab.0.left/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588559487415" />
+    <state width="1877" height="436" key="GridCell.Tab.0.right" timestamp="1588559487415">
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588544601311" />
+    <state width="1317" height="282" key="GridCell.Tab.0.right/1360.-157.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1588546154344" />
+    <state width="1877" height="436" key="GridCell.Tab.0.right/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588559487415" />
     <state x="1912" y="95" key="Rider.ProjectTemplateDialog.Size" timestamp="1588543303918">
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
     <state x="1912" y="95" key="Rider.ProjectTemplateDialog.Size/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543303918" />
-    <state x="1821" y="5" key="SettingsEditor" timestamp="1588543109888">
+    <state x="1821" y="5" key="SettingsEditor" timestamp="1588559474031">
       <screen x="1360" y="-157" width="1920" height="1040" />
     </state>
-    <state x="1821" y="5" key="SettingsEditor/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588543109888" />
+    <state x="1821" y="5" key="SettingsEditor/1360.-157.1920.1040/0.0.1360.728@1360.-157.1920.1040" timestamp="1588559474031" />
   </component>
 </project>

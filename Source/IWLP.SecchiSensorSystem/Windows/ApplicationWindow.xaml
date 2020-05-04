@@ -14,6 +14,7 @@
         <StatusBar x:Name="Status_Bar" DockPanel.Dock="Bottom" Height="25" FontSize="11" Foreground="Black" Background="#FFDADADA" BorderBrush="DarkGray" BorderThickness="1">
             <StatusBarItem Content="{Binding Connected}" ContentStringFormat="Status: {0}" BorderBrush="#FF0E0E0E"/>
             <StatusBarItem Content="{Binding TimeRange}" ContentStringFormat="    Time range: {0}" Margin="0,0,0,0"/>
+            <StatusBarItem Content="{Binding LastTemperature}" ContentStringFormat="    Current temperature: {0:N}" Margin="0,0,0,0"/>
 
         </StatusBar>
         <Grid x:Name="Upper_Grid" DockPanel.Dock="Top" Height="100">
