@@ -279,7 +279,7 @@ namespace IWLP.SecchiSensorSystem.Windows
 
                 // Create the csv writer and file. 
                 _csvWriter = new CsvWriter(excelLocation + System.IO.Path.DirectorySeparatorChar.ToString() + fileName);
-                _csvWriter.WriteArrayToFile(new []{"time","distance","temp"}, true);
+                _csvWriter.WriteArrayToFile(new []{"time","temp"}, true);
                 
                 _connected = !_connected;
                 ButtonStatus = "Disconnect";
