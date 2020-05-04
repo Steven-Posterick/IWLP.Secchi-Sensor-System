@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c75645ac-177f-457e-a776-85a4e91a08c3" name="Default Changelist" comment="" />
+    <list default="true" id="c75645ac-177f-457e-a776-85a4e91a08c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/IWLP.SecchiSensorSystem/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/netcoreapp3.1/IWLP.SecchiSensorSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IWLP.SecchiSensorSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IWLP.SecchiSensorSystem/Windows/ApplicationWindow.xaml.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +119,7 @@
       <updated>1588542940941</updated>
       <workItem from="1588542942091" duration="818000" />
       <workItem from="1588544160348" duration="6123000" />
-      <workItem from="1588559109988" duration="582000" />
+      <workItem from="1588559109988" duration="240000" />
     </task>
     <servers />
   </component>
